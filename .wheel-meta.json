@@ -1,0 +1,22 @@
+{
+  "wheel_id": 676,
+  "structure": "umbrella",
+  "slug": "retainingwallsunshinecoast-110",
+  "project": "retaining-walls-sunshine-coast-signs-you-need-bd197eee9b95e3747",
+  "parent_t1_ref": "retainingwallsunshinecoast-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallsunshinecoast.au",
+  "primary_kw": "retaining walls sunshine coast signs you need",
+  "intended_url": "http://retaining-walls-sunshine-coast-signs-you-need-bd197eee9b95e3747.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "44afc7583a7c1459",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-sunshine-coast-how-to-choose-35a6c6796537d3cb1f/",
+      "anchor": "https://sites-e470-2.web.app/retaining-walls-sunshine-coast-how-to-choose-35a6c6796537d3cb1f/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
